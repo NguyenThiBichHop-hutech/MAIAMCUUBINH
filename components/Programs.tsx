@@ -5,8 +5,8 @@ const programs: Program[] = [
   {
     id: 'p1',
     title: 'Xây Nhà Tình Nghĩa - Hà Giang',
-    description: 'Quyên góp xây dựng 10 căn nhà cho các cựu chiến binh biên giới tại huyện Vị Xuyên.',
-    image: 'https://picsum.photos/seed/house1/600/400',
+    description: 'Quyên góp xây dựng 10 căn nhà cho các cựu chiến binh biên giới tại Sóc Sơn.',
+    image: 'https://hnm.1cdn.vn/2025/05/19/2cceab7cf6/soc-son(1).jpg',
     raised: 450000000,
     goal: 600000000,
   },
