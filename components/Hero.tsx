@@ -11,7 +11,7 @@ const Hero: React.FC<HeroProps> = ({ onDonate }) => {
       <div className="absolute inset-0">
         <img
           className="w-full h-full object-cover opacity-40"
-          src="https://picsum.photos/seed/vietnamveteran1/1920/1080"
+          src="https://media.baosonla.org.vn/public/hoaht/2025-01-24/hoi-cuu-chien-binh-tinh-va-nha-tai-tro-tham,-tang-qua-gia-dinh-cuu-chien-binh-ngheo-nhan-dip-trao-nha-moi.jpg"
           alt="Hình ảnh cựu chiến binh"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-stone-900 via-stone-900/40 to-transparent"></div>
