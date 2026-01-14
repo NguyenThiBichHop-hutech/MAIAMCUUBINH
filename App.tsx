@@ -45,7 +45,7 @@ Những nỗ lực bền bỉ của ông Lê Văn Chớ đã mang lại sự an 
                     <img 
                       className="rounded-xl shadow-xl w-full object-cover h-80"
                       src="https://ngaymoionline.com.vn/stores/news_dataimages/2025/072025/27/12/gen-h-ong-cho-120250727124628.jpg?rt=20250727124649"
-                      alt="Ông Hai Lúa"
+                      alt="Ông Lê Văn Chớ"
                     />
                   </div>
                 </div>
