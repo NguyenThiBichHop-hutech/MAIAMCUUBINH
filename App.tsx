@@ -6,7 +6,7 @@ import Hero from './components/Hero';
 import Stats from './components/Stats';
 import Programs from './components/Programs';
 import DonateSection from './components/DonateSection';
-import LegalDocs from './components/LegalDocs';
+// import LegalDocs from './components/LegalDocs';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<ViewState>(ViewState.HOME);
@@ -76,8 +76,9 @@ const App: React.FC = () => {
                 </div>
             </div>
         );
-      case ViewState.LEGAL_DOCS:
+      /* case ViewState.LEGAL_DOCS:
         return <LegalDocs />;
+        */
       default:
         return null;
     }
