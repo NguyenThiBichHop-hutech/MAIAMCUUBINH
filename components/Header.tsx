@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({ currentView, onNavigate }) => {
     { label: 'Trang Chủ', value: ViewState.HOME },
     { label: 'Hoạt Động', value: ViewState.PROGRAMS },
     { label: 'Câu Chuyện', value: ViewState.STORIES },
-    { label: 'Hồ Sơ Pháp Lý', value: ViewState.LEGAL_DOCS },
+    // { label: 'Hồ Sơ Pháp Lý', value: ViewState.LEGAL_DOCS },
   ];
 
   return (
