@@ -4,7 +4,7 @@ import { Program } from '../types';
 const programs: Program[] = [
   {
     id: 'p1',
-    title: 'Xây Nhà Tình Nghĩa - Hà Giang',
+    title: 'Xây Nhà Tình Nghĩa - Sóc Sơn',
     description: 'Quyên góp xây dựng 10 căn nhà cho các cựu chiến binh biên giới tại Sóc Sơn.',
     image: 'https://hnm.1cdn.vn/2025/05/19/2cceab7cf6/soc-son(1).jpg',
     raised: 450000000,
@@ -22,8 +22,8 @@ const programs: Program[] = [
     id: 'p3',
     title: 'Sổ Tiết Kiệm Nghĩa Tình',
     description: 'Trao tặng sổ tiết kiệm trị giá 10 triệu đồng cho các mẹ Việt Nam Anh Hùng.',
-    image: 'https://picsum.photos/seed/elderly1/600/400',
-    raised: 85000000,
+    image: 'https://baoquangbinh.vn/dataimages/202207/original/images737305_19.7_ng_n_h_ng_th_m_MVNAH.jpg',
+    raised: 850000,
     goal: 100000000,
   },
 ];
