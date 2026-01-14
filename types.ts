@@ -2,7 +2,7 @@ export enum ViewState {
   HOME = 'HOME',
   PROGRAMS = 'PROGRAMS',
   STORIES = 'STORIES',
-  LEGAL_DOCS = 'LEGAL_DOCS',
+  // LEGAL_DOCS = 'LEGAL_DOCS',//
   DONATE = 'DONATE',
 }
 
